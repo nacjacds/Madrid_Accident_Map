@@ -33,27 +33,27 @@ To run this project in your local environment, you need to install the following
 - `pyproj`: For converting UTM coordinates to geographic (latitude and longitude).
 
 
-## Uso del Mapa Interactivo
-El mapa permite interactuar con las diferentes categorías de accidentes, agrupadas por severidad:
+## Usage of the Interactive Map
+The map allows interaction with the different categories of accidents, grouped by severity:
 
-Accidentes con Fallecidos: Marcadores en color rojo.
-Accidentes con Heridos: Marcadores en color azul.
-Accidentes sin Asistencia Sanitaria: Marcadores en color verde.
-Puedes activar o desactivar la visualización de cada grupo usando el control de capas en la esquina superior derecha del mapa. Al hacer clic en cada marcador, se muestra información detallada sobre el accidente, como la fecha, hora, localización y tipo de accidente.
+Accidents with Fatalities: Markers in red.
+Accidents with Injuries: Markers in blue.
+Accidents without Medical Assistance: Markers in green.
+You can enable or disable the visualization of each group using the layer control in the upper right corner of the map. By clicking on each marker, detailed information about the accident is displayed, such as the date, time, location, and type of accident.
 
-## Contribuciones
-Si deseas contribuir a este proyecto, por favor sigue estos pasos:
+## Contributions
+If you want to contribute to this project, please follow these steps:
 
-Haz un fork del repositorio.
-Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
-Realiza tus cambios y haz commit (git commit -am 'Añadir nueva funcionalidad').
-Envía los cambios a tu repositorio (git push origin feature/nueva-funcionalidad).
-Crea un Pull Request y describe los cambios propuestos.
-Licencia
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
+Fork the repository.
+Create a new branch (git checkout -b feature/new-feature).
+Make your changes and commit (git commit -am 'Add new feature').
+Push your changes to your repository (git push origin feature/new-feature).
+Create a Pull Request and describe the proposed changes.
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
-## Puedes ver el mapa aqui:
+## You can view the map here:
 https://nachojacquot.com/dataprojects/mapa_accidentes_madrid/mapa.html
 
-## Contacto
-Si tienes preguntas o sugerencias, no dudes en contactarme a través de fiodornac@gmail.com
+## Contact
+If you have any questions or suggestions, feel free to contact me at fiodornac@gmail.com.
