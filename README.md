@@ -4,6 +4,9 @@
 
 This project aims to display an **interactive map** of accidents that occurred in the city of Madrid during the year 2024. Additionally, it includes visualizations and analysis of accident data to better understand the distribution and severity of accidents in the region.
 
+## You can view the map here:
+https://nachojacquot.com/dataprojects/mapa_accidentes_madrid/mapa.html
+
 ## Description
 
 The project consists of:
@@ -51,9 +54,6 @@ Push your changes to your repository (git push origin feature/new-feature).
 Create a Pull Request and describe the proposed changes.
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
-## You can view the map here:
-https://nachojacquot.com/dataprojects/mapa_accidentes_madrid/mapa.html
 
 ## Contact
 If you have any questions or suggestions, feel free to contact me at fiodornac@gmail.com.
