@@ -8,7 +8,7 @@ This project aims to display an **interactive map** of accidents that occurred i
 
 The project consists of:
 1. **Interactive Map**: An interactive map created with folium, which allows visualizing the location of the accidents. The accidents have been classified according to their severity (fatalities, injuries, and without medical assistance).
-2. **Visualizations**: Graphs that show relevant statistics, such as:
+2. **Visualisations**: Graphs that show relevant statistics, such as:
 - Number of accidents by district.
 - Number of accidents by type of vehicle.
 - Accidents with or without alcohol/drug consumption.
@@ -18,19 +18,19 @@ The project consists of:
 - Accidents by weather conditions.
 
 
-El propósito de este proyecto es facilitar el análisis de datos de accidentes y proporcionar una herramienta visual para explorar la distribución de los mismos en la ciudad.
+The purpose of this project is to facilitate the analysis of accident data and provide a visual tool to explore their distribution in the city.
 
 
-## Requisitos
+## Requirements
 
-Para ejecutar este proyecto en tu entorno local, necesitas instalar las siguientes librerías de Python:
+To run this project in your local environment, you need to install the following Python libraries:
 
-- `pandas`: Para la manipulación y análisis de datos.
-- `numpy`: Para operaciones matemáticas y manejo de arrays.
-- `folium`: Para la creación de mapas interactivos.
-- `matplotlib`: Para la creación de gráficos.
-- `seaborn`: Para la visualización avanzada de datos.
-- `pyproj`: Para la conversión de coordenadas UTM a geográficas (latitud y longitud).
+- `pandas`: For data manipulation and analysis.
+- `numpy`: For mathematical operations and array handling.
+- `folium`: For creating interactive maps.
+- `matplotlib`: For creating plots.
+- `seaborn`: For advanced data visualisation.
+- `pyproj`: For converting UTM coordinates to geographic (latitude and longitude).
 
 
 ## Uso del Mapa Interactivo
