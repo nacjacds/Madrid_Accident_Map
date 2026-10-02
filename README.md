@@ -5,7 +5,7 @@
 This project aims to display an **interactive map** of accidents that occurred in the city of Madrid during the year 2024. Additionally, it includes visualizations and analysis of accident data to better understand the distribution and severity of accidents in the region.
 
 ## You can view the map here:
-https://nachojacquot.com/code/map_madrid/mapa.html
+https://nachojacquot.com/code/map_madrid/map.html
 
 ## Description
 
